@@ -19,6 +19,7 @@
 | 产品经理之路 | [产品经理之路.md](产品经理之路.md) | 产品小白 → 助理 → 专员 → 经理 → 用户运营型 → 收入运营型 → CEO 分界 | 梁宁《腾讯是如何培养产品经理的》（湖畔大学 P16/P17） |
 | 软件工程师之路 | [软件工程师之路.md](软件工程师之路.md) | Junior → Mid → Senior → Staff → Principal（能力带）+ IC/Manager 双轨 | Dropbox / Square / GitLab / Monzo 职级框架；Larson / Allspaw / Reilly / Fournier / Gergely；Google Eng Practices / 阿里 p3c / 美团 / CNCF / 陈皓 |
 | 运营之路 | [运营之路.md](运营之路.md) | P1 新手 → P2 入门 → P3 业务骨干 → P4 专家 → P5 操盘手 →（业务负责人/GM 分界） | 黄有璨《运营之光》；张亮《从零开始做运营》；韩叙《超级运营术》；AARRR / 增长黑客 / 北极星 / RFM |
+| 技术领导力自检与成长指南 | [技术领导力自检与成长指南.md](技术领导力自检与成长指南.md) | 技术判断力 → 业务翻译力 → 向上沟通力（与软件工程师之路互补） | Will Larson / Camille Fournier / Barbara Minto |
 
 ## 怎么读
 
